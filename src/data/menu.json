@@ -1,0 +1,22 @@
+[
+  {
+    "menu": "favorites",
+    "submenu": [{ "name": "Dashboard" }]
+  },
+  {
+    "menu": "Pages",
+    "submenu": [
+      {
+        "name": "Crud"
+      },
+      { "name": "Calender" },
+      { "name": "Timeline" },
+      { "name": "Landing" },
+      { "name": "Login" },
+      { "name": "Invoice" },
+      { "name": "Help" },
+      { "name": "Error" },
+      { "name": "Calender" }
+    ]
+  }
+]
